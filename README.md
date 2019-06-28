@@ -1,16 +1,16 @@
-### OrderIt
+# OrderIt
 
 ## React Hooks
-# styled-components, Jest + Enzyme
+### styled-components, Jest + Enzyme
 
 ## React + MobX + TypeScript
-# emotion, cypress
+### emotion, cypress
 
 ## React + Redux + Flow
-# JSS, Karma
+### JSS, Karma
 
 ## React + GraphQL + Apollo
-# less, Jasmine
+### less, Jasmine
 
 ## Angular (stylus)
 
